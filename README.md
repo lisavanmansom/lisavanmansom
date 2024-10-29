@@ -1,6 +1,6 @@
 ## Hi there 
 
-My name is Lisa van Mansom and I am studying Frontend design & development at the Hva. During my study I have learnt the best practices of HTML, CSS and JavaScript and how to use it in a creative way. This year I have started using tech stacks like SvelteKit and React. 
+My name is Lisa van Mansom and I am studying Frontend design & development at the HvA. During my study I have learnt the best practices of HTML, CSS and JavaScript and how to use it in a creative way. This year I have started using tech stacks like SvelteKit and React. 
 
 Outside of coding, I am passionate about diving into classic and contemporary literature, as I believe every book offers a fresh perspective on the world. I love the energy and creativity of live music, and going to concerts is one of my favorite ways to unwind and get inspired. I also value spending quality time with friends, as those moments help me recharge and bring balance to my life.
 
