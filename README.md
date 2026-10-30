@@ -1,8 +1,10 @@
 ## Hi there 
 
-My name is Lisa van Mansom, I'm a junior frontend developer recently graduated from the Frontend Design & Development study at the HvA. I’ve built a strong foundation in HTML, CSS, JavaScript, and SvelteKit, and gained hands-on experience with Next.js during my internship at Bravoure. I also learned to integrate AI-assisted tools into my workflow to boost productivity and explore new ways of working more efficiently.
+I'm a frontend developer based in the Netherlands, currently working at DutchDrops where I build and improve e-commerce platforms. My work involves developing custom frontend solutions, building new features and improving existing functionality using technologies such as Vue.js, JavaScript, Shopware 6, Twig and SCSS.
 
-I’m passionate about web accessibility and love combining creativity with thoughtful code to craft inclusive, user-centered experiences. Curious and ambitious, I’m always eager to keep learning and growing as a developer.
+I graduated in Frontend Design & Development from the Amsterdam University of Applied Sciences (HvA), where I built a strong foundation in HTML, CSS, JavaScript and modern frontend frameworks. During my internship at Bravoure, I gained hands-on experience with Next.js, React and TypeScript, working on projects with a strong focus on accessibility and reusable components.
+
+I'm passionate about creating accessible, user-friendly experiences and enjoy combining creativity with thoughtful code. I'm always curious to explore new technologies, experiment with different approaches and keep developing my skills as a frontend developer.
 
 <!--
 **lisavanmansom/lisavanmansom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
